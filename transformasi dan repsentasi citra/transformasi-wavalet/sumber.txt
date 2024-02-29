@@ -1,0 +1,13 @@
+wavalet 1, 2
+
+https://id.wikipedia.org/wiki/Wavelet
+
+formula-wavalet,
+ilustrasi wafalet,
+example-wavalet-2d-foto 
+
+https://media.neliti.com/media/publications/79529-ID-analisis-perbandingan-transformasi-wavel.pdf
+
+implementasi wavalet dan algoritma,
+wavalet-skala-coeficient
+https://pemrogramanmatlab.com/2023/08/18/watermarking-citra-menggunakan-transformasi-wavelet/

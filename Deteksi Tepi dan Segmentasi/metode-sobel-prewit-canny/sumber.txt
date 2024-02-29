@@ -1,0 +1,12 @@
+prewit, sobel, canny
+
+https://pemrogramanmatlab.com/pengolahan-citra-digital/segmentasi-citra/deteksi-tepi/
+
+
+implementasi metode prewit
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fjournal.almuslim.ac.id%2Findex.php%2Fmika%2Farticle%2Fdownload%2F24%2F34%2F39&psig=AOvVaw3obgPGHBDSnQC0MyAscxgv&ust=1709308486102000&source=images&cd=vfe&opi=89978449&ved=0CAUQjB1qFwoTCJC-8bv00IQDFQAAAAAdAAAAABAE
+
+
+langkah metode canny
+https://media.neliti.com/media/publications/486481-implementasi-metode-canny-untuk-deteksi-45aed951.pdf
+

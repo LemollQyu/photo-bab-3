@@ -1,0 +1,23 @@
+reosentasi citra
+https://putuadisusanta.wordpress.com/2015/07/17/representasi-citra-digital/
+
+chart
+dan tranformasi fourier
+
+https://informatika.stei.itb.ac.id/~rinaldi.munir/Citra/2019-2020/12-Transformasi-Citra.pdf
+
+trnaformasi fourier 2D 
+https://www.mathworks.com/help/matlab/math/two-dimensional-fft.html
+
+tranformasi-fourier-zeroPadding-and-amplitudo
+https://www.mathworks.com/help/signal/ug/amplitude-estimation-and-zero-padding.html
+
+
+fast-fourier-tranform
+https://martendarmawan.wordpress.com/2013/11/22/fast-fourier-transformations-application-in-image-processing/
+
+rumus-tranformasi-terbalik
+https://en.wikipedia.org/wiki/Fourier_transform
+
+transformasi-fourier-diskrit
+https://slideplayer.info/slide/12974148/

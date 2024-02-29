@@ -1,0 +1,6 @@
+low pass
+https://en.wikipedia.org/wiki/Low-pass_filter
+
+high pass 
+https://en.wikipedia.org/wiki/High-pass_filter
+

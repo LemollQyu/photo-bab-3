@@ -1,0 +1,10 @@
+highpass filter
+median filter 
+https://image.slidesharecdn.com/03spatialfiltering-130424050639-phpapp02/75/pertemuan-3-digital-image-processing-spatial-filtering-citra-digital-10-2048.jpg?cb=1666639686
+
+smoothing-filter
+https://rasidesilva95.medium.com/image-smoothing-filters-21d63810b678
+
+sherpening filter
+https://support.apple.com/id-id/guide/motion/motn169f9e38/mac
+
